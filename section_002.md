@@ -22,7 +22,7 @@ Label, nummer en titel bepalen samen wat de volledige titel, de kop boven de tek
 <figure><img src='media/tekstobject.png' alt='Afbeelding in UML van het TekstObject.' style='width: 100%;'></img>
 <figcaption>TekstObject</figcaption></figure>
 
-In tabel Klasse TekstObject wordt de klasse TekstObject beschreven, waarbij per attribuut wordt aangegeven. Welke waarde gewenst is, welke dit moet zijn, of het gebruik van het attribuut verplicht is,<br/>
+In tabel 1 Klasse TekstObject wordt de klasse TekstObject beschreven, waarbij per attribuut wordt aangegeven. Welke waarde gewenst is, welke dit moet zijn, of het gebruik van het attribuut verplicht is,<br/>
 en of het attribuut meerdere keren mag voorkomen. Na de tabel wordt per attribuut een nadere toelichting gegeven over de toepassing ervan.<br/>
 <table style='width: 100%;'><caption>Tabel 1 Klasse TekstObject</caption>
 <colgroup><col id='col1' style='width: 25%;'
@@ -255,7 +255,7 @@ In de tekst attributen mag alleen worden verwezen naar afbeeldingen die deel uit
 Bij het beschikbaar stellen van objectgerichte planteksten is het mogelijk om gebruik te maken van een separaat Cascading Style Sheet (CSS bestand), waarin de gewenste opmaak van de planteksten is vastgelegd. Dit is vastgelegd in de <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>. De bepaling dat alleen mag worden verwezen naar afbeeldingen die deel uitmaken van het instrument is niet van toepassing op afbeeldingen waar vanuit het CSS bestand naar wordt verwezen.
 
 <b>Toevoegingen voor opsommingen</b><br/>
-Voor de ongeordende lijst &lt;ul&gt; kunnen de volgende “classes” worden gebruikt om specifieke opsommingtekens te gebruiken. Als geen class wordt gebruikt, zal de standaard waarde worden verondersteld conform de volgende tabel:<br/>
+Voor de ongeordende lijst &lt;ul&gt; kunnen de volgende “classes” worden gebruikt om specifieke opsommingtekens te gebruiken. Als geen class wordt gebruikt, zal de standaard waarde worden verondersteld conform tabel 3:<br/>
 <table style='width: 100%;'><caption>Tabel 3 gebruik van classes</caption>
 <colgroup><col id='col1' style='width: 21.336610486891384%;'
 <col id='col2' style='width: 78.66338951310861%;'
@@ -289,7 +289,7 @@ Voor de ongeordende lijst &lt;ul&gt; kunnen de volgende “classes” worden geb
 </tbody>
 </table>
 
-Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebruikt om specifieke opsommingtekens te gebruiken. Als geen class wordt gebruikt, zal de standaard waarde worden verondersteld conform de volgende tabel:<br/>
+Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebruikt om specifieke opsommingtekens te gebruiken. Als geen class wordt gebruikt, zal de standaard waarde worden verondersteld conform tabel 4:<br/>
 <table style='width: 100%;'><caption>Tabel 4 gebruik van opsommingen</caption>
 <colgroup><col id='col1' style='width: 22.951779026217228%;'
 <col id='col2' style='width: 77.04822097378276%;'
