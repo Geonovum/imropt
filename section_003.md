@@ -7,7 +7,7 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 <figure><img src='media/hierarchie_objecttypen.jpg' alt='Afbeelding met de getrapte hiërarchie van de objecttypen bij planteksten.' style='width: 81.32071115215885%;'></img>
 <figcaption>Hiërarchie objecttypen bij planteksten</figcaption></figure>
 
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten plannen: bijlagen bij regels</caption>
+<table style='width: 100%;'><caption>Tabel 6 Basisindeling planteksten plannen: bijlagen bij regels</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
@@ -86,7 +86,7 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten plannen: toelichting</caption>
+<table style='width: 100%;'><caption>Tabel 7 Basisindeling planteksten plannen: toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
@@ -158,7 +158,7 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten plannen: bijlagen bij toelichting</caption>
+<table style='width: 100%;'><caption>Tabel 8 Basisindeling planteksten plannen: bijlagen bij toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
@@ -240,7 +240,7 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 ## Basisindeling Visies {#6CD31E7C}
 
 Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling. Planteksten voor deze groep visies kan in eerste plaats worden verdeeld in beleidstekst, bijlagen, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. <a href='#d3e4452'>Tabel 9</a> geeft de indeling voor de beleidstekst. In de volgende tabellen wordt de indeling gegeven voor de bijlagen (<a href='#d3e4817'>Tabel 10</a>), toelichting (<a href='#d3e5145'>Tabel 11</a>) en de bijlagen bij de toelichting (<a href='#d3e5442'>Tabel 12</a>). In afwijking van onderstaande tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten visies: beleidstekst</caption>
+<table style='width: 100%;'><caption>Tabel 9 Basisindeling planteksten visies: beleidstekst</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
@@ -325,7 +325,7 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten visies: bijlagen</caption>
+<table style='width: 100%;'><caption>Tabel 10 Basisindeling planteksten visies: bijlagen</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
@@ -404,7 +404,7 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten visies: toelichting</caption>
+<table style='width: 100%;'><caption>Tabel 11 Basisindeling planteksten visies: toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
@@ -476,7 +476,7 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel Basisindeling planteksten visies: bijlagen bij toelichting</caption>
+<table style='width: 100%;'><caption>Tabel 12 Basisindeling planteksten visies: bijlagen bij toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'
 <col id='col2' style='width: 9.528608218564552%;'
 <col id='col3' style='width: 52.37935281603404%;'
