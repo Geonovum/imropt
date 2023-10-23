@@ -416,16 +416,14 @@ bij verwijzingen naar HTML of XHTML bestanden kan er worden verwezen naar specif
 
 Meer technisch georiënteerde lezers zullen zich gemakkelijker een beeld kunnen vormen van de werking van het tekst attribuut door onderstaand voorbeeld te bekijken:
 
-<i>Het belangrijkste </i><b><i>doel</i></b><i> van dit voorbeeld is duidelijkheid verschaffen. Een verwijzing naar </i>een bijlage<i> is bijvoorbeeld een apart onderdeel. Net zoals een lijst met</i><br/>
-</aside>
+<i>Het belangrijkste </i><b><i>doel</i></b><i> van dit voorbeeld is duidelijkheid verschaffen. Een verwijzing naar </i>een bijlage<i> is bijvoorbeeld een apart onderdeel. Net zoals een lijst met</i>
 
 <ol><li><i>punt 1</i></li>
 <li><i>punt 2</i></li>
 <li><i>punt 3</i></li>
 </ol>
 
-<aside class='example'>In bovenstaand voorbeeld wordt de inhoud van <span style='color: #0000FF;'><span style='background-color: white;'>&lt;</span></span><span style='color: #800000;'><span style='background-color: white;'>tekst</span></span><span style='color: #0000FF;'><span style='background-color: white;'>&gt;</span></span> gevormd door<br/>
-</aside>
+In bovenstaand voorbeeld wordt de inhoud van <span style='color: #0000FF;'><span style='background-color: white;'>&lt;</span></span><span style='color: #800000;'><span style='background-color: white;'>tekst</span></span><span style='color: #0000FF;'><span style='background-color: white;'>&gt;</span></span> gevormd door
 
 <ul><li>een aantal alfanumerieke tekens (de eigenlijke tekst);</li>
 <li>een codering die aangeeft dat “doel” sterke nadruk (strong) moet krijgen;</li>
@@ -433,7 +431,7 @@ Meer technisch georiënteerde lezers zullen zich gemakkelijker een beeld kunnen 
 <li>een lijst met 3 items, aangegeven met alfanumerieke tekens.</li>
 </ul>
 
-<aside class='example'>In XML code zal dit er als volgt uitzien:
+In XML code zal dit er als volgt uitzien:
 
 <pre class="html"><span style='color: #0000FF;'>&lt;</span><span style='color: #800000;'>tekst</span><span style='color: #0000FF;'>&gt;
     &lt;</span><span style='color: #800000;'>p</span><span style='color: #0000FF;'>&gt;</span>Het belangrijkste <span style='color: #0000FF;'>&lt;</span><span style='color: #800000;'>strong</span><span style='color: #0000FF;'>&gt;</span>doel<span style='color: #0000FF;'>&lt;/</span><span style='color: #800000;'>strong</span><span style='color: #0000FF;'>&gt;</span>van dit voorbeeld is duidelijkheid verschaffen. Een verwijzing naar <span style='color: #0000FF;'>&lt;</span><span style='color: #800000;'>imropt2012:externeVerwijzing</span><span style='color: #FF0000;'> xl:type</span><span style='color: #0000FF;'>="</span><span style='color: #000000;'>simple</span><span style='color: #0000FF;'>"</span><span style='color: #FF0000;'> xl:href</span><span style='color: #0000FF;'>="</span><span style='color: #000000;'>b_NL.IMRO.4321.12-0004_bijlage1.pdf</span> "<span style='color: #0000FF;'>&gt;</span>een bijlage<span style='color: #0000FF;'>&lt;/</span><span style='color: #800000;'>imropt2012:externeVerwijzing</span>&gt; is bijvoorbeeld een apart onderdeel. Net zoals een lijst met<span style='color: #0000FF;'>&lt;/</span><span style='color: #800000;'>p</span><span style='color: #0000FF;'>&gt;
