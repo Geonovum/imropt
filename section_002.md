@@ -333,7 +333,7 @@ Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebru
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Toegevoegde 5 IMRO-PT elementen</caption>
+<table style='width: 100%;'><caption>Tabel 5 IMRO-PT elementen</caption>
 <colgroup><col id='col1' style='width: 22.955938475771944%;'
 <col id='col2' style='width: 77.04406152422806%;'
 </colgroup>
