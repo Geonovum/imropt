@@ -8,7 +8,7 @@ var documentConfig =
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
-    "docs.geostandaarden.nl/ro/imropt/"
+    "https://docs.geostandaarden.nl/ro/imropt/"
   ],
   publishDate: "2023-10-11",
   publishVersion: "1.2.0",
