@@ -25,14 +25,14 @@ var documentConfig =
   issueBase: "ro-standaarden@geonovum.nl",
   authors: [
     {
-      name: "Beheerder RO Standaarden",
+      name: "Paul Janssen",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
   ],
   editors: [
     {
-      name: "Beheerder RO Standaarden",
+      name: "Monique van Scherpenzeel",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     }
