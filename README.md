@@ -7,3 +7,5 @@ Het actuele schema en de schematron van IMROPT staan in deze repository.
 WERK IN UITVOERING: 
 
 [IMROPT versie 1.2](https://geonovum.github.io/imropt/)
+
+De repository [RO Standaarden]( https://github.com/Geonovum/ROST) is voor het beheer van de niet normatieve onderdelen van de RO Standaarden. Alle onderdelen van de RO Standaarden inclusief toelichting zijn toegankelijk en raadpleegbaar via de [Geonovum website](https://www.geonovum.nl/geo-standaarden/ro-standaarden-ruimtelijke-ordening#ROStandaarden). 
