@@ -1,6 +1,6 @@
 var documentConfig =
 {
-  title: "Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012)",
+  title: "Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012) versie 1.2.0",
   subtitle: "Bijlage 7 behorende bij de Regeling standaarden ruimtelijke ordening",
   shortName: "imropt",
   pubDomain: "ro",
