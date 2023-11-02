@@ -9,7 +9,7 @@ Bij een klasse, te beschouwen als een groep van objecten met dezelfde eigenschap
 <i>Voorbeeld: een tekstobject heeft altijd een attribuut “titel”. De inhoud van dit attribuut is de titel van het tekstobject, bijvoorbeeld ”Wonen” .</i>
 
 De klasse TekstObject is van toepassing op alle instrumenten en heeft één bijzonder onderdeel: de tekst zelf. Dit attribuut is de eigenlijke inhoud. Binnen dit attribuut bevindt zich de tekst zelf, “de cijfers en letters”, evt. noodzakelijke opmaak zoals tabellen, lijsten, nadruk etc. In <a href='#fig-imropt-model-in-totaliteit'>Figuur 1</a> is het IMROPT model als geheel in een UML diagram weergegeven.<br/>
-<figure><img src='media/imropt_model.png' alt='Het IMROPT model wordt weergegeven met de objecten TekstMetadata, TeksObject, TitelInfo en Objecttype.' style='width: 100%;'></img>
+<figure><img src='media/Model_Planteksten.png' alt='Het IMROPT model wordt weergegeven met de objecten TekstMetadata, TeksObject, TitelInfo en Objecttype.' style='width: 100%;'></img>
 <figcaption>IMROPT model in totaliteit</figcaption></figure>
 
 ## Klasse TekstObject {#1DB047CE}
