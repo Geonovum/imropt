@@ -6,8 +6,8 @@ De constraints worden toegepast op objectklassen in het UML diagram van IMROPT20
 
 De constraints zijn uitgewerkt bij de objectklasse waarop ze van toepassing zijn. Elke constraintregel wordt eerst in woorden beschreven en daarna in OCL (versie 2.0).<br/>
 <table style='width: 100%;'><caption>Tabel 19 OCL constraints voor tekstobjecten</caption>
-<colgroup><col id='col1' style='width: 6.014868213561613%;'
-<col id='col2' style='width: 93.98513178643839%;'
+<colgroup><col id='col1' style='width: 6.014868213561613%;'>
+<col id='col2' style='width: 93.98513178643839%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;' colspan='2'><b>TekstObject</b><br/>
 </th>

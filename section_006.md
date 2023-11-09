@@ -2,7 +2,7 @@
 
 In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opgenomen. Voor definities en notatie wordt verwezen naar <a href='https://docs.geostandaarden.nl/ro/imro' target='_blank'>IMRO2012</a>.<br/>
 <table style='width: 100%;'><caption>Tabel 21 Enumeratie voor ObjecttypePlan</caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>ObjecttypePlan</b><br/>
@@ -166,7 +166,7 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 </table>
 
 <table style='width: 100%;'><caption>Tabel 22 Enumeratie voor ObjecttypeVisie</caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>ObjecttypeVisie</b><br/>
@@ -216,7 +216,7 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 </table>
 
 <table style='width: 100%;'><caption>Tabel 23 Enumeratie voor ObjecttypeBesluit</caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>ObjecttypeBesluit</b><br/>
@@ -305,7 +305,7 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 </table>
 
 <table style='width: 100%;'><caption>Tabel 24 Enumeratie voor Teksttype</caption>
-<colgroup><col id='col1' style='width: 100%;'
+<colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
 <thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>Teksttype</b><br/>
