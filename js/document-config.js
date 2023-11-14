@@ -10,7 +10,7 @@ var documentConfig =
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/imropt/"
   ],
-  publishDate: "2023-10-11",
+  publishDate: "2023-12-01",
   publishVersion: "1.2.0",
   thisVersion: [
     "https://geonovum.github.io/imropt/"
@@ -28,6 +28,16 @@ var documentConfig =
       name: "Paul Janssen",
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
+    },
+	 {
+      name: "Remco Koenders",
+      company: "Dezta",
+      companyURL: "https://www.dezta.nl"
+    },
+	 {
+      name: "Lieuwe Koopmans",
+      company: "Tercera",
+      companyURL: "https://www.tercera.nl/"
     }
   ],
   editors: [
