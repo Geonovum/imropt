@@ -25,9 +25,9 @@ Label, nummer en titel bepalen samen wat de volledige titel, de kop boven de tek
 In tabel 1 Klasse TekstObject wordt de klasse TekstObject beschreven, waarbij per attribuut wordt aangegeven. Welke waarde gewenst is, welke dit moet zijn, of het gebruik van het attribuut verplicht is,<br/>
 en of het attribuut meerdere keren mag voorkomen. Na de tabel wordt per attribuut een nadere toelichting gegeven over de toepassing ervan.<br/>
 <table style='width: 100%;'><caption>Tabel 1 Klasse TekstObject</caption>
-<colgroup><col id='col1' style='width: 25%;'
-<col id='col2' style='width: 9.997688395746648%;'
-<col id='col3' style='width: 65.00231160425335%;'
+<colgroup><col id='col1' style='width: 25%;'>
+<col id='col2' style='width: 9.997688395746648%;'>
+<col id='col3' style='width: 65.00231160425335%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>Klasse<br/>
 </th>
@@ -163,8 +163,8 @@ De inhoud van de tekstelementen is “mixed-content”. Dat betekent dat binnen 
 De volgende XHTML 1.0 elementen (conform <a href='https://www.w3.org/TR/xhtml1/' target='_blank'>W3C</a>) mogen worden gebruikt. Nadere definitie vindt plaats in het IMROPT2012 XML Schema (XSD) en dit modeldocument.
 
 <table style='width: 304.8pt;'><caption>Tabel 2 XHTML elementen</caption>
-<colgroup><col id='col1' style='width: 50%;'
-<col id='col2' style='width: 50%;'
+<colgroup><col id='col1' style='width: 50%;'>
+<col id='col2' style='width: 50%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>XHTML element<br/>
 </th>
@@ -257,8 +257,8 @@ Bij het beschikbaar stellen van objectgerichte planteksten is het mogelijk om ge
 <b>Toevoegingen voor opsommingen</b><br/>
 Voor de ongeordende lijst &lt;ul&gt; kunnen de volgende “classes” worden gebruikt om specifieke opsommingtekens te gebruiken. Als geen class wordt gebruikt, zal de standaard waarde worden verondersteld conform tabel 3:<br/>
 <table style='width: 100%;'><caption>Tabel 3 gebruik van classes</caption>
-<colgroup><col id='col1' style='width: 21.336610486891384%;'
-<col id='col2' style='width: 78.66338951310861%;'
+<colgroup><col id='col1' style='width: 21.336610486891384%;'>
+<col id='col2' style='width: 78.66338951310861%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Class</b><br/>
 </th>
@@ -291,8 +291,8 @@ Voor de ongeordende lijst &lt;ul&gt; kunnen de volgende “classes” worden geb
 
 Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebruikt om specifieke opsommingtekens te gebruiken. Als geen class wordt gebruikt, zal de standaard waarde worden verondersteld conform tabel 4:<br/>
 <table style='width: 100%;'><caption>Tabel 4 gebruik van opsommingen</caption>
-<colgroup><col id='col1' style='width: 22.951779026217228%;'
-<col id='col2' style='width: 77.04822097378276%;'
+<colgroup><col id='col1' style='width: 22.951779026217228%;'>
+<col id='col2' style='width: 77.04822097378276%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Class</b><br/>
 </th>
@@ -334,8 +334,8 @@ Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebru
 </table>
 
 <table style='width: 100%;'><caption>Tabel 5 Toegevoegde IMRO-PT elementen</caption>
-<colgroup><col id='col1' style='width: 22.955938475771944%;'
-<col id='col2' style='width: 77.04406152422806%;'
+<colgroup><col id='col1' style='width: 22.955938475771944%;'>
+<col id='col2' style='width: 77.04406152422806%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>XHTML element</b><br/>
 </th>

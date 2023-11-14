@@ -9,9 +9,9 @@ Een groot deel van deze algemene eigenschappen hoort bij het plan als geheel (du
 
 In <a href='#d3e8953'>Tabel 20</a> wordt de klasse TekstMetadata beschreven, de waarden aangegeven die deze attributen moeten bevatten en wordt aangegeven hoe vaak het attribuut voorkomt. Na de tabel wordt per attribuut een nadere toelichting gegeven.<br/>
 <table style='width: 100%;'><caption>Tabel 20 Klasse TekstMetadata</caption>
-<colgroup><col id='col1' style='width: 27.920952270888712%;'
-<col id='col2' style='width: 8.193690049693748%;'
-<col id='col3' style='width: 63.885357679417545%;'
+<colgroup><col id='col1' style='width: 27.920952270888712%;'>
+<col id='col2' style='width: 8.193690049693748%;'>
+<col id='col3' style='width: 63.885357679417545%;'>
 </colgroup>
 <thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Klasse</b><br/>
 </th>
