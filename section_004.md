@@ -9,7 +9,7 @@ De constraints zijn uitgewerkt bij de objectklasse waarop ze van toepassing zijn
 <colgroup><col id='col1' style='width: 6.014868213561613%;'>
 <col id='col2' style='width: 93.98513178643839%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left'<th align='left'> colspan='2'><b>TekstObject</b><br/>
+<thead valign='top'><tr><th align='left' colspan='2'>TekstObject<br/>
 </th>
 </tr>
 </thead>
