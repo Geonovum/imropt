@@ -3,11 +3,11 @@
 In dit hoofdstuk is voor de drie verschillende groepen ruimtelijke instrumenten de volgorde in planteksten aangegeven met behulp van tabellen. Elk TekstObject is benoemd onder de kolom objectType. Hoeveel keer het TekstObject mag voorkomen is aangegeven in de kolom Aantal. Tot slot is in de kolom “Mag voorkomen onder” aangegeven onder welk TekstObject dit TekstObject kan vallen.<br/>
 ## Basisindeling plannen {#6CD31CA1}
 
-Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingsplan, wijzigingsplan en uitwerkingsplan kan de plantekst op een vaste wijze worden ingedeeld. Planteksten voor deze groep plannen kan in eerste plaats worden verdeeld in regels, bijlagen bij regels, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> schrijft de indeling van de hoofdstukken en paragrafen van de regels voor. Figuur 3 geeft de indeling voor de regels conform de SVBP2012. In de volgende tabellen wordt de indeling gegeven voor de bijlagen bij de regels (Tabel 6), toelichting (Tabel 7) en de bijlagen bij de toelichting (Tabel 8). In afwijking van deze tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
+Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingsplan, wijzigingsplan en uitwerkingsplan kan de plantekst op een vaste wijze worden ingedeeld. Planteksten voor deze groep plannen kan in eerste plaats worden verdeeld in regels, bijlagen bij regels, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. De <a href='https://docs.geostandaarden.nl/ro/svbp' target='_blank'>SVBP2012</a> schrijft de indeling van de hoofdstukken en paragrafen van de regels voor. Figuur 3 geeft de indeling voor de regels conform de SVBP2012. In de volgende tabellen wordt de indeling gegeven voor de bijlagen bij de regels (<a href='#T006'>Tabel 6</a>), toelichting (<a href='#T007'>Tabel 7</a>) en de bijlagen bij de toelichting (<a href='#T008'>Tabel 8</a>). In afwijking van deze tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
 <figure><img src='media/hierarchie_objecttypen.jpg' alt='Afbeelding met de getrapte hiërarchie van de objecttypen bij planteksten.' style='width: 81.32071115215885%;'></img>
 <figcaption>Hiërarchie objecttypen bij planteksten</figcaption></figure>
 
-<table style='width: 100%;'><caption>Tabel 6 Basisindeling planteksten plannen: bijlagen bij regels</caption>
+<table style='width: 100%;' id='T006'><caption>Tabel 6 Basisindeling planteksten plannen: bijlagen bij regels</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -86,7 +86,7 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 7 Basisindeling planteksten plannen: toelichting</caption>
+<table style='width: 100%;' id='T007'><caption>Tabel 7 Basisindeling planteksten plannen: toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -158,7 +158,7 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 8 Basisindeling planteksten plannen: bijlagen bij toelichting</caption>
+<table style='width: 100%;' id='T008'><caption>Tabel 8 Basisindeling planteksten plannen: bijlagen bij toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -239,8 +239,8 @@ Voor een bestemmingsplan, beheersverordening, inpassingsplan, rijksbestemmingspl
 
 ## Basisindeling Visies {#6CD31E7C}
 
-Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling. Planteksten voor deze groep visies kan in eerste plaats worden verdeeld in beleidstekst, bijlagen, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. Tabel 9 geeft de indeling voor de beleidstekst. In de volgende tabellen wordt de indeling gegeven voor de bijlagen (Tabel 10), toelichting (Tabel 11) en de bijlagen bij de toelichting (Tabel 12). In afwijking van onderstaande tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
-<table style='width: 100%;'><caption>Tabel 9 Basisindeling planteksten visies: beleidstekst</caption>
+Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling. Planteksten voor deze groep visies kan in eerste plaats worden verdeeld in beleidstekst, bijlagen, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. <a href='#T009'>Tabel 9</a> geeft de indeling voor de beleidstekst. In de volgende tabellen wordt de indeling gegeven voor de bijlagen (<a href='#T010'>Tabel 10</a>), toelichting (<a href='#T011'>Tabel 11</a>) en de bijlagen bij de toelichting (<a href='#T012'>Tabel 12</a>). In afwijking van onderstaande tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
+<table style='width: 100%;' id='T009'><caption>Tabel 9 Basisindeling planteksten visies: beleidstekst</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -325,7 +325,7 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 10 Basisindeling planteksten visies: bijlagen</caption>
+<table style='width: 100%;' id='T010'><caption>Tabel 10 Basisindeling planteksten visies: bijlagen</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -404,7 +404,7 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 11 Basisindeling planteksten visies: toelichting</caption>
+<table style='width: 100%;' id='T011'><caption>Tabel 11 Basisindeling planteksten visies: toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -476,7 +476,7 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 12 Basisindeling planteksten visies: bijlagen bij toelichting</caption>
+<table style='width: 100%;' id='T012'><caption>Tabel 12 Basisindeling planteksten visies: bijlagen bij toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -557,8 +557,8 @@ Structuurvisies kennen in vergelijking met de plannen een vrijere basisindeling.
 
 ## Basisindeling Besluiten {#6CD31F2F}
 
-Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Planteksten voor deze groep besluiten kunnen in eerste plaats worden verdeeld in besluittekst, bijlagen, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. Tabel 13 geeft de indeling voor de besluittekst. In de volgende tabellen wordt de indeling gegeven voor de bijlagen (Tabel 14), regels (Tabel 15), bijlagen bij regels (Tabel 16), toelichting (Tabel 17) en bijlagen bij de toelichting (Tabel 18). In afwijking van onderstaande tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
-<table style='width: 100%;'><caption>Tabel 13 Basisindeling planteksten besluiten: besluittekst</caption>
+Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Planteksten voor deze groep besluiten kunnen in eerste plaats worden verdeeld in besluittekst, bijlagen, toelichting, bijlagen bij toelichting. Ieder van deze onderdelen wordt verdeeld in hoofdstukken, paragrafen et cetera. <a href='#T013'>Tabel 13</a> geeft de indeling voor de besluittekst. In de volgende tabellen wordt de indeling gegeven voor de bijlagen (<a href='#T014'>Tabel 14</a>), regels (<a href='#T015'>Tabel 15</a>), bijlagen bij regels (<a href='#T016'>Tabel 16</a>), toelichting (<a href='#T017'>Tabel 17</a>) en bijlagen bij de toelichting (<a href='#T018'>Tabel 18</a>). In afwijking van onderstaande tabellen mogen bijlagen ook beschikbaar gesteld worden in separate bronbestanden conform <a href='https://docs.geostandaarden.nl/ro/stri' target='_blank'>STRI2012</a>.<br/>
+<table style='width: 100%;' id='T013'><caption>Tabel 13 Basisindeling planteksten besluiten: besluittekst</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -657,7 +657,7 @@ Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Plant
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 14 Basisindeling planteksten besluiten: bijlagen</caption>
+<table style='width: 100%;' id='T014'><caption>Tabel 14 Basisindeling planteksten besluiten: bijlagen</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -736,7 +736,7 @@ Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Plant
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 15 Basisindeling planteksten besluiten: regels</caption>
+<table style='width: 100%;' id='T015'><caption>Tabel 15 Basisindeling planteksten besluiten: regels</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -815,7 +815,7 @@ Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Plant
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 16 Basisindeling planteksten besluiten: bijlagen bij regels</caption>
+<table style='width: 100%;' id='T016'><caption>Tabel 16 Basisindeling planteksten besluiten: bijlagen bij regels</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -894,7 +894,7 @@ Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Plant
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 17 Basisindeling planteksten besluiten: toelichting</caption>
+<table style='width: 100%;' id='T017'><caption>Tabel 17 Basisindeling planteksten besluiten: toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>
@@ -1008,7 +1008,7 @@ Besluiten kennen in vergelijking met de plannen een vrijere basisindeling. Plant
 </tbody>
 </table>
 
-<table style='width: 100%;'><caption>Tabel 18 Basisindeling planteksten besluiten: bijlagen bij toelichting</caption>
+<table style='width: 100%;' id='T018'><caption>Tabel 18 Basisindeling planteksten besluiten: bijlagen bij toelichting</caption>
 <colgroup><col id='col1' style='width: 38.09203896540141%;'>
 <col id='col2' style='width: 9.528608218564552%;'>
 <col id='col3' style='width: 52.37935281603404%;'>

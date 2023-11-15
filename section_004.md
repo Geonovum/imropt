@@ -5,7 +5,7 @@ De in dit hoofdstuk opgenomen constraints horen bij het conceptuele niveau van h
 De constraints worden toegepast op objectklassen in het UML diagram van IMROPT2012. De constraints zijn hierdoor onderdeel van IMROPT2012. De overervingsregels uit de objectoriëntatie zijn van toepassing op constraints.
 
 De constraints zijn uitgewerkt bij de objectklasse waarop ze van toepassing zijn. Elke constraintregel wordt eerst in woorden beschreven en daarna in OCL (versie 2.0).<br/>
-<table style='width: 100%;'><caption>Tabel 19 OCL constraints voor tekstobjecten</caption>
+<table style='width: 100%;' id='T019'><caption>Tabel 19 OCL constraints voor tekstobjecten</caption>
 <colgroup><col id='col1' style='width: 6.014868213561613%;'>
 <col id='col2' style='width: 93.98513178643839%;'>
 </colgroup>

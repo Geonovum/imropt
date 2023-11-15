@@ -29,12 +29,12 @@ var documentConfig =
       company: "Geonovum",
       companyURL: "https://www.geonovum.nl/"
     },
-	 {
+	  {
       name: "Remco Koenders",
       company: "Dezta",
       companyURL: "https://www.dezta.nl"
     },
-	 {
+	  {
       name: "Lieuwe Koopmans",
       company: "Tercera",
       companyURL: "https://www.tercera.nl/"
