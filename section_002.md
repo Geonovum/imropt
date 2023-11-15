@@ -29,87 +29,87 @@ en of het attribuut meerdere keren mag voorkomen. Na de tabel wordt per attribuu
 <col id='col2' style='width: 9.997688395746648%;'>
 <col id='col3' style='width: 65.00231160425335%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>Klasse<br/>
+<thead valign='top'><tr><th align='left'>Klasse<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;' colspan='2'>TekstObject<br/>
+<th align='left' colspan='2'>TekstObject<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Definitie<br/>
+<tbody valign='top'><tr><td align='left'>Definitie<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>Zelfstandig leesbaar stuk tekst met een titel, dat begint met een hoofdletter en eindigt met een punt.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>Herkomst definitie <br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='2'>IMROPT<br/>
+<td align='left' colspan='2'>Zelfstandig leesbaar stuk tekst met een titel, dat begint met een hoofdletter en eindigt met een punt.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>Attributen<br/>
+<tr><td align='left'>Herkomst definitie <br/>
+</td>
+<td align='left' colspan='2'>IMROPT<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><i>Attribuutnaam</i><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>m*</b><br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'><b>Toelichting</b><br/>
+<tr><td align='left' colspan='3'>Attributen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie<br/>
+<tr><td align='left'><i>Attribuutnaam</i><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'><b>m*</b><br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>eigen identificatie (idn) van het TekstObject. De code moet uniek zijn binnen het plantekstenbestand. De identificatie begint met "NL.IMRO.PT." en wordt gevolgd door max. 32 alfanumerieke tekens.<br/>
+<td align='left'><b>Toelichting</b><br/>
+</td>
+</tr>
+<tr><td align='left'>identificatie<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>eigen identificatie (idn) van het TekstObject. De code moet uniek zijn binnen het plantekstenbestand. De identificatie begint met "NL.IMRO.PT." en wordt gevolgd door max. 32 alfanumerieke tekens.<br/>
 De waarde moet voldoen aan de volgende reguliere expressie: NL\.IMRO\.PT\.[A-Za-z0-9_\-,\.]{1,32}<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingNaarPlangebied<br/>
+<tr><td align='left'>verwijzingNaarPlangebied<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie (idn) van het IMRO Plangebied waar dit TekstObject bij hoort.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>volgnummer<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>een oplopend volgnummer 1, 2, 3, ... dat de volgorde van de tekstobjecten aangeeft.<br/>
+<td align='left'>identificatie (idn) van het IMRO Plangebied waar dit TekstObject bij hoort.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>niveau<br/>
+<tr><td align='left'>volgnummer<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>een oplopende waarde 0, 1, 2, ... dat het hiërarchische niveau van het object aangeeft. Het object met niveau 0 heeft het hoogste niveau. De waarde mag niet hoger zijn dan 11.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ouderId<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>identificatie (idn) van het bovenliggend TekstObject.<br/>
+<td align='left'>een oplopend volgnummer 1, 2, 3, ... dat de volgorde van de tekstobjecten aangeeft.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>type<br/>
+<tr><td align='left'>niveau<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>type van het object volgens domein ObjecttypePlan, ObjecttypeVisie of ObjecttypeBesluit <br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>typeTekst<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>aanduiding van het type tekst waarnaar verwezen wordt. Domein: Teksttype.<br/>
+<td align='left'>een oplopende waarde 0, 1, 2, ... dat het hiërarchische niveau van het object aangeeft. Het object met niveau 0 heeft het hoogste niveau. De waarde mag niet hoger zijn dan 11.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>titelInfo<br/>
+<tr><td align='left'>ouderId<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>1<br/>
+<td align='left'>1<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>TitelInfo: Een samengesteld attribuut:<br/>
+<td align='left'>identificatie (idn) van het bovenliggend TekstObject.<br/>
+</td>
+</tr>
+<tr><td align='left'>type<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>type van het object volgens domein ObjecttypePlan, ObjecttypeVisie of ObjecttypeBesluit <br/>
+</td>
+</tr>
+<tr><td align='left'>typeTekst<br/>
+</td>
+<td align='left'>0..1<br/>
+</td>
+<td align='left'>aanduiding van het type tekst waarnaar verwezen wordt. Domein: Teksttype.<br/>
+</td>
+</tr>
+<tr><td align='left'>titelInfo<br/>
+</td>
+<td align='left'>1<br/>
+</td>
+<td align='left'>TitelInfo: Een samengesteld attribuut:<br/>
 <ul><li>label [0..1]: Soortnaam die getoond moet worden, vaak gelijk aan type. Dit is een vrij tekstveld.</li>
 <li>nummer [0..1]: aanduiding van het object. Een opvolgende reeks (1,2,3 of A,B,C) wordt geadviseerd.</li>
 <li>naam[0..1]: de zelf gekozen naam van het object.</li>
@@ -117,35 +117,35 @@ De waarde moet voldoen aan de volgende reguliere expressie: NL\.IMRO\.PT\.[A-Za-
 
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>interneVerwijzing<br/>
+<tr><td align='left'>interneVerwijzing<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..n<br/>
+<td align='left'>0..n<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>TekstObject identificatie (idn), koppelt TekstObjecten<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>externeVerwijzing<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..n<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzingen naar een ander bronbestand waar het ruimtelijk instrument is opgebouwd of een specifieke locatie daarbinnen.<br/>
+<td align='left'>TekstObject identificatie (idn), koppelt TekstObjecten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>tekstMetadata<br/>
+<tr><td align='left'>externeVerwijzing<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
+<td align='left'>0..n<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>verwijzing naar object TekstMetadata. Alleen van toepassing en verplicht indien het type object gelijk is aan ‘document’ of ‘besluitdocument’.<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>tekst<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>0..1<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>de tekst. Wat hier mag worden opgenomen staat beschreven in paragraaf <a href='#6CD31BFC'>2.3</a>.<br/>
+<td align='left'>verwijzingen naar een ander bronbestand waar het ruimtelijk instrument is opgebouwd of een specifieke locatie daarbinnen.<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;' colspan='3'>* multipliciteit<br/>
+<tr><td align='left'>tekstMetadata<br/>
+</td>
+<td align='left'>0..1<br/>
+</td>
+<td align='left'>verwijzing naar object TekstMetadata. Alleen van toepassing en verplicht indien het type object gelijk is aan ‘document’ of ‘besluitdocument’.<br/>
+</td>
+</tr>
+<tr><td align='left'>tekst<br/>
+</td>
+<td align='left'>0..1<br/>
+</td>
+<td align='left'>de tekst. Wat hier mag worden opgenomen staat beschreven in paragraaf <a href='#6CD31BFC'>2.3</a>.<br/>
+</td>
+</tr>
+<tr><td align='left' colspan='3'>* multipliciteit<br/>
 1 = komt 1 keer voor<br/>
 1..n = komt 1 of meer keer voor<br/>
 0..1 = komt hooguit 1 keer voor<br/>
@@ -166,85 +166,85 @@ De volgende XHTML 1.0 elementen (conform <a href='https://www.w3.org/TR/xhtml1/'
 <colgroup><col id='col1' style='width: 50%;'>
 <col id='col2' style='width: 50%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>XHTML element<br/>
+<thead valign='top'><tr><th align='left'>XHTML element<br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: #000000;'>betekenis<br/>
+<th align='left'>betekenis<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;!--...--&gt;<br/>
+<tbody valign='top'><tr><td align='left'>&lt;!--...--&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>commentaar<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;strong&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>sterke nadruk<br/>
+<td align='left'>commentaar<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;em&gt;<br/>
+<tr><td align='left'>&lt;strong&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nadruk<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;sub&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>subscript<br/>
+<td align='left'>sterke nadruk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;sup&gt;<br/>
+<tr><td align='left'>&lt;em&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>superscript<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;ul&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>ongeordende lijst<br/>
+<td align='left'>nadruk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;ol&gt;<br/>
+<tr><td align='left'>&lt;sub&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>geordende lijst<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;li&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>item in een lijst<br/>
+<td align='left'>subscript<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;p&gt;<br/>
+<tr><td align='left'>&lt;sup&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>paragraaf<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;br&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>nieuwe regel<br/>
+<td align='left'>superscript<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;table&gt;<br/>
+<tr><td align='left'>&lt;ul&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>tabel<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;tr&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>rij in tabel<br/>
+<td align='left'>ongeordende lijst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;td&gt;<br/>
+<tr><td align='left'>&lt;ol&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>cel in tabel<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;th&gt;<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>kop in tabel<br/>
+<td align='left'>geordende lijst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>&lt;img&gt;<br/>
+<tr><td align='left'>&lt;li&gt;<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #666666; border-left: 0.5pt solid #666666; border-bottom: 0.5pt solid #666666; border-right: 0.5pt solid #666666; background-color: none;'>afbeelding<br/>
+<td align='left'>item in een lijst<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;p&gt;<br/>
+</td>
+<td align='left'>paragraaf<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;br&gt;<br/>
+</td>
+<td align='left'>nieuwe regel<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;table&gt;<br/>
+</td>
+<td align='left'>tabel<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;tr&gt;<br/>
+</td>
+<td align='left'>rij in tabel<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;td&gt;<br/>
+</td>
+<td align='left'>cel in tabel<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;th&gt;<br/>
+</td>
+<td align='left'>kop in tabel<br/>
+</td>
+</tr>
+<tr><td align='left'>&lt;img&gt;<br/>
+</td>
+<td align='left'>afbeelding<br/>
 </td>
 </tr>
 </tbody>
@@ -260,30 +260,30 @@ Voor de ongeordende lijst &lt;ul&gt; kunnen de volgende “classes” worden geb
 <colgroup><col id='col1' style='width: 21.336610486891384%;'>
 <col id='col2' style='width: 78.66338951310861%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Class</b><br/>
+<thead valign='top'><tr><th align='left'><b>Class</b><br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Toelichting</b><br/>
+<th align='left'><b>Toelichting</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>disc<br/>
+<tbody valign='top'><tr><td align='left'>disc<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een gevulde cirkel. Dit is de standaard waarde van de &lt;ul&gt;<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>circle<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een open cirkel<br/>
+<td align='left'>Een gevulde cirkel. Dit is de standaard waarde van de &lt;ul&gt;<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>square<br/>
+<tr><td align='left'>circle<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een vierkant<br/>
+<td align='left'>Een open cirkel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>nomarker<br/>
+<tr><td align='left'>square<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Er wordt geen opsommingsteken getoond (list-style-type=none)<br/>
+<td align='left'>Een vierkant<br/>
+</td>
+</tr>
+<tr><td align='left'>nomarker<br/>
+</td>
+<td align='left'>Er wordt geen opsommingsteken getoond (list-style-type=none)<br/>
 </td>
 </tr>
 </tbody>
@@ -294,40 +294,40 @@ Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebru
 <colgroup><col id='col1' style='width: 22.951779026217228%;'>
 <col id='col2' style='width: 77.04822097378276%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Class</b><br/>
+<thead valign='top'><tr><th align='left'><b>Class</b><br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Toelichting</b><br/>
+<th align='left'><b>Toelichting</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>decimal<br/>
+<tbody valign='top'><tr><td align='left'>decimal<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een numerieke waarde. Dit is de standaard waarde van de &lt;ol&gt;<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>decimal-leading-zero<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een numerieke waarde met voorloopnul (01, 02, 03, etc.)<br/>
+<td align='left'>Een numerieke waarde. Dit is de standaard waarde van de &lt;ol&gt;<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>lower-alpha<br/>
+<tr><td align='left'>decimal-leading-zero<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een kleine letter (onderkast) (a, b, c, d, e, etc.)<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>upper-alpha<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een hoofdletter (kapitaal) (A, B, C, D, E, etc.) <br/>
+<td align='left'>Een numerieke waarde met voorloopnul (01, 02, 03, etc.)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>lower-roman<br/>
+<tr><td align='left'>lower-alpha<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een Romeinse numerieke waarde in kleine letter (i, ii, iii, iv, v, etc.)<br/>
+<td align='left'>Een kleine letter (onderkast) (a, b, c, d, e, etc.)<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>upper-roman<br/>
+<tr><td align='left'>upper-alpha<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Een Romeinse numerieke waarde in hoofdletter (I, II, III, IV, V, etc.)<br/>
+<td align='left'>Een hoofdletter (kapitaal) (A, B, C, D, E, etc.) <br/>
+</td>
+</tr>
+<tr><td align='left'>lower-roman<br/>
+</td>
+<td align='left'>Een Romeinse numerieke waarde in kleine letter (i, ii, iii, iv, v, etc.)<br/>
+</td>
+</tr>
+<tr><td align='left'>upper-roman<br/>
+</td>
+<td align='left'>Een Romeinse numerieke waarde in hoofdletter (I, II, III, IV, V, etc.)<br/>
 </td>
 </tr>
 </tbody>
@@ -337,35 +337,35 @@ Voor de geordende lijst &lt;ol&gt; kunnen de volgende “classes” worden gebru
 <colgroup><col id='col1' style='width: 22.955938475771944%;'>
 <col id='col2' style='width: 77.04406152422806%;'>
 </colgroup>
-<thead valign='top'><tr><th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>XHTML element</b><br/>
+<thead valign='top'><tr><th align='left'><b>XHTML element</b><br/>
 </th>
-<th align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'><b>Betekenis</b><br/>
+<th align='left'><b>Betekenis</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>voetnoot<br/>
+<tbody valign='top'><tr><td align='left'>voetnoot<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>voetnoot<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>verwijderd<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Verwijderde tekst, alleen bedoeld voor het markeren van tekst waarvan vermeld wordt dat deze verwijderd wordt (in geval van herzieningen).<br/>
+<td align='left'>voetnoot<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>toegevoegd<br/>
+<tr><td align='left'>verwijderd<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>Toegevoegde tekst, alleen bedoeld voor het markeren van tekst waarvan vermeld wordt dat deze een toevoeging vormt (in geval van herzieningen)<br/>
-</td>
-</tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>interneVerwijzing<br/>
-</td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>TekstObject identificatie (idn), koppelt TekstObjecten<br/>
+<td align='left'>Verwijderde tekst, alleen bedoeld voor het markeren van tekst waarvan vermeld wordt dat deze verwijderd wordt (in geval van herzieningen).<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>externeVerwijzing<br/>
+<tr><td align='left'>toegevoegd<br/>
 </td>
-<td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>verwijzingen naar een ander bronbestand waar het ruimtelijk instrument is opgebouwd of een specifieke locatie daarbinnen.<br/>
+<td align='left'>Toegevoegde tekst, alleen bedoeld voor het markeren van tekst waarvan vermeld wordt dat deze een toevoeging vormt (in geval van herzieningen)<br/>
+</td>
+</tr>
+<tr><td align='left'>interneVerwijzing<br/>
+</td>
+<td align='left'>TekstObject identificatie (idn), koppelt TekstObjecten<br/>
+</td>
+</tr>
+<tr><td align='left'>externeVerwijzing<br/>
+</td>
+<td align='left'>verwijzingen naar een ander bronbestand waar het ruimtelijk instrument is opgebouwd of een specifieke locatie daarbinnen.<br/>
 </td>
 </tr>
 </tbody>

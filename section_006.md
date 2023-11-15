@@ -4,162 +4,162 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 <table style='width: 100%;' id='T021'><caption>Tabel 21 Enumeratie voor ObjecttypePlan</caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
-<b>ObjecttypePlan</b><br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
+ObjecttypePlan<br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>afwijken van de bouwregels<br/>
+<tbody valign='top'><tr><td align='left'>afwijken van de bouwregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>afwijken van de gebruiksregels<br/>
+<tr><td align='left'>afwijken van de gebruiksregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene aanduidingsregels<br/>
+<tr><td align='left'>algemene aanduidingsregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene afwijkingsregels<br/>
+<tr><td align='left'>algemene afwijkingsregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene bouwregels<br/>
+<tr><td align='left'>algemene bouwregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene gebruiksregels<br/>
+<tr><td align='left'>algemene gebruiksregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene procedureregels<br/>
+<tr><td align='left'>algemene procedureregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene regels<br/>
+<tr><td align='left'>algemene regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>algemene wijzigingsregels<br/>
+<tr><td align='left'>algemene wijzigingsregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>anti-dubbeltelregel<br/>
+<tr><td align='left'>anti-dubbeltelregel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>begrippen<br/>
+<tr><td align='left'>begrippen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bestemming<br/>
+<tr><td align='left'>bestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bestemmingsomschrijving<br/>
+<tr><td align='left'>bestemmingsomschrijving<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bestemmingsregels<br/>
+<tr><td align='left'>bestemmingsregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlage bij regels<br/>
+<tr><td align='left'>bijlage bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlagen bij regels<br/>
+<tr><td align='left'>bijlagen bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlagen bij toelichting<br/>
+<tr><td align='left'>bijlagen bij toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bouwregels<br/>
+<tr><td align='left'>bouwregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>deel<br/>
+<tr><td align='left'>deel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>definitieve bestemming bij voorlopige bestemming</span><br/>
+<tr><td align='left'><span style='color: #000000;'>definitieve bestemming bij voorlopige bestemming</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>document<br/>
+<tr><td align='left'>document<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>dubbelbestemming<br/>
+<tr><td align='left'>dubbelbestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>geldigheidstermijn van de voorlopige bestemming<br/>
+<tr><td align='left'>geldigheidstermijn van de voorlopige bestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>hoofdstuk<br/>
+<tr><td align='left'>hoofdstuk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>inleidende regels<br/>
+<tr><td align='left'>inleidende regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>lid<br/>
+<tr><td align='left'>lid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>nadere eisen<br/>
+<tr><td align='left'>nadere eisen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>omgevingsvergunning voor het slopen van een bouwwerk <br/>
+<tr><td align='left'>omgevingsvergunning voor het slopen van een bouwwerk <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>omgevingsvergunning voor het uitvoeren van werken, geen bouwwerk zijnde, of van werkzaamheden <br/>
+<tr><td align='left'>omgevingsvergunning voor het uitvoeren van werken, geen bouwwerk zijnde, of van werkzaamheden <br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>overgangs- en slotregels<br/>
+<tr><td align='left'>overgangs- en slotregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>overgangsrecht<br/>
+<tr><td align='left'>overgangsrecht<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>overig<br/>
+<tr><td align='left'>overig<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>overige regels<br/>
+<tr><td align='left'>overige regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>paragraaf<br/>
+<tr><td align='left'>paragraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>regels<br/>
+<tr><td align='left'>regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>slotregel<br/>
+<tr><td align='left'>slotregel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>specifieke gebruiksregels<br/>
+<tr><td align='left'>specifieke gebruiksregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>sublid<br/>
+<tr><td align='left'>sublid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subparagraaf<br/>
+<tr><td align='left'>subparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsublid<br/>
+<tr><td align='left'>subsublid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubparagraaf<br/>
+<tr><td align='left'>subsubparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubsublid<br/>
+<tr><td align='left'>subsubsublid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubsubparagraaf<br/>
+<tr><td align='left'>subsubsubparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>uit te werken bestemming<br/>
+<tr><td align='left'>uit te werken bestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>uitwerkingsregels<br/>
+<tr><td align='left'>uitwerkingsregels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>verwezenlijking in de naaste toekomst<br/>
+<tr><td align='left'>verwezenlijking in de naaste toekomst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>voorlopige bestemming<br/>
+<tr><td align='left'>voorlopige bestemming<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>wijze van meten<br/>
+<tr><td align='left'>wijze van meten<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>wijzigingsbevoegdheid<br/>
+<tr><td align='left'>wijzigingsbevoegdheid<br/>
 </td>
 </tr>
 </tbody>
@@ -168,48 +168,48 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 <table style='width: 100%;' id='T022'><caption>Tabel 22 Enumeratie voor ObjecttypeVisie</caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>ObjecttypeVisie</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>band<br/>
+<tbody valign='top'><tr><td align='left'>band<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>beleidstekst<br/>
+<tr><td align='left'>beleidstekst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlage<br/>
+<tr><td align='left'>bijlage<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlagen<br/>
+<tr><td align='left'>bijlagen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>deel<br/>
+<tr><td align='left'>deel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>document<br/>
+<tr><td align='left'>document<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>hoofdstuk<br/>
+<tr><td align='left'>hoofdstuk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>overig<br/>
+<tr><td align='left'>overig<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>paragraaf<br/>
+<tr><td align='left'>paragraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subparagraaf<br/>
+<tr><td align='left'>subparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubparagraaf<br/>
+<tr><td align='left'>subsubparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubsubparagraaf<br/>
+<tr><td align='left'>subsubsubparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -218,87 +218,87 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 <table style='width: 100%;' id='T023'><caption>Tabel 23 Enumeratie voor ObjecttypeBesluit</caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>ObjecttypeBesluit</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>afdeling<br/>
+<tbody valign='top'><tr><td align='left'>afdeling<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>artikel<br/>
+<tr><td align='left'>artikel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>besluitdocument<br/>
+<tr><td align='left'>besluitdocument<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>besluittekst<br/>
+<tr><td align='left'>besluittekst<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlage<br/>
+<tr><td align='left'>bijlage<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlage bij regels<br/>
+<tr><td align='left'>bijlage bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlage bij toelichting<br/>
+<tr><td align='left'>bijlage bij toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlagen<br/>
+<tr><td align='left'>bijlagen<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlagen bij regels<br/>
+<tr><td align='left'>bijlagen bij regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>bijlagen bij toelichting<br/>
+<tr><td align='left'>bijlagen bij toelichting<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>deel<br/>
+<tr><td align='left'>deel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>hoofdstuk<br/>
+<tr><td align='left'>hoofdstuk<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>lid<br/>
+<tr><td align='left'>lid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>onderdeel<br/>
+<tr><td align='left'>onderdeel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>overig<br/>
+<tr><td align='left'>overig<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>paragraaf<br/>
+<tr><td align='left'>paragraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>regels<br/>
+<tr><td align='left'>regels<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>sublid<br/>
+<tr><td align='left'>sublid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subonderdeel<br/>
+<tr><td align='left'>subonderdeel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subparagraaf<br/>
+<tr><td align='left'>subparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsublid<br/>
+<tr><td align='left'>subsublid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubparagraaf<br/>
+<tr><td align='left'>subsubparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubsublid<br/>
+<tr><td align='left'>subsubsublid<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>subsubsubparagraaf<br/>
+<tr><td align='left'>subsubsubparagraaf<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>titel<br/>
+<tr><td align='left'>titel<br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'>toelichting<br/>
+<tr><td align='left'>toelichting<br/>
 </td>
 </tr>
 </tbody>
@@ -307,63 +307,63 @@ In dit hoofdstuk zijn de in IMROPT voorkomende domeinen van attribuutwaarden opg
 <table style='width: 100%;' id='T024'><caption>Tabel 24 Enumeratie voor Teksttype</caption>
 <colgroup><col id='col1' style='width: 100%;'>
 </colgroup>
-<thead valign='top'><tr><th align='center' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: #000000;'>&lt;&lt;enumeration&gt;&gt;<br/>
+<thead valign='top'><tr><th align='center'>&lt;&lt;enumeration&gt;&gt;<br/>
 <b>Teksttype</b><br/>
 </th>
 </tr>
 </thead>
-<tbody valign='top'><tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>beleid</span><br/>
+<tbody valign='top'><tr><td align='left'><span style='color: #000000;'>beleid</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>beleid gemandateerd aan GS</span><br/>
+<tr><td align='left'><span style='color: #000000;'>beleid gemandateerd aan GS</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>besluitdocument</span><br/>
+<tr><td align='left'><span style='color: #000000;'>besluitdocument</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>besluittekst</span><br/>
+<tr><td align='left'><span style='color: #000000;'>besluittekst</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij besluitdocument</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij besluitdocument</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij besluittekst</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij besluittekst</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij regel met voorbereidingsbescherming</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij regel met voorbereidingsbescherming</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij regel zonder voorbereidingsbescherming</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij regel zonder voorbereidingsbescherming</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij regels</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij regels</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij toelichting</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij toelichting</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>bijlage bij voorschriften/regels</span><br/>
+<tr><td align='left'><span style='color: #000000;'>bijlage bij voorschriften/regels</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>document</span><br/>
+<tr><td align='left'><span style='color: #000000;'>document</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>regel met voorbereidingsbescherming</span><br/>
+<tr><td align='left'><span style='color: #000000;'>regel met voorbereidingsbescherming</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>regel zonder voorbereidingsbescherming</span><br/>
+<tr><td align='left'><span style='color: #000000;'>regel zonder voorbereidingsbescherming</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>regels</span><br/>
+<tr><td align='left'><span style='color: #000000;'>regels</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>toelichting</span><br/>
+<tr><td align='left'><span style='color: #000000;'>toelichting</span><br/>
 </td>
 </tr>
-<tr><td align='left' style='border-top: 0.5pt solid #000000; border-left: 0.5pt solid #000000; border-bottom: 0.5pt solid #000000; border-right: 0.5pt solid #000000; background-color: none;'><span style='color: #000000;'>voorschriften/regels</span><br/>
+<tr><td align='left'><span style='color: #000000;'>voorschriften/regels</span><br/>
 </td>
 </tr>
 </tbody>
