@@ -3,7 +3,7 @@ var documentConfig =
   title: "Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012) versie 1.2.0",
   shortName: "imropt",
   pubDomain: "ro",
-  specStatus: "dv",
+  specStatus: "def",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
