@@ -1,16 +1,15 @@
 var documentConfig =
 {
   title: "Informatiemodel Ruimtelijke Ordening Planteksten 2012 (IMROPT2012) versie 1.2.0",
-  subtitle: "Geonovum Informatiemodel",
   shortName: "imropt",
   pubDomain: "ro",
-  specStatus: "wv",
+  specStatus: "dv",
   specType: "no",
   license: "cc-by-nd",
   latestVersion: [
     "https://docs.geostandaarden.nl/ro/imropt/"
   ],
-  publishDate: "2023-12-01",
+  publishDate: "2023-11-29",
   publishVersion: "1.2.0",
   thisVersion: [
     "https://geonovum.github.io/imropt/"
