@@ -12,7 +12,7 @@ var documentConfig =
   publishDate: "2023-11-29",
   publishVersion: "1.2.0",
   thisVersion: [
-    "https://geonovum.github.io/imropt/"
+    "https://docs.geostandaarden.nl/ro/def-im-imropt-20231129/"
   ],
   previousPublishDate: "2012-04-18",
   previousPublishVersion: "1.1.0",
